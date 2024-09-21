@@ -1,4 +1,4 @@
-package com.PetFurMe.app.ui.theme
+package com.petfurme.app.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

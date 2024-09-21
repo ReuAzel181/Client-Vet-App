@@ -1,4 +1,4 @@
-package com.PetFurMe.app
+package com.petfurme.app
 
 import org.junit.Test
 

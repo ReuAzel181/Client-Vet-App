@@ -1,6 +1,5 @@
-package com.PetFurMe.app.ui.theme
+package com.petfurme.app.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

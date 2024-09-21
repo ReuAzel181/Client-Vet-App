@@ -1,4 +1,4 @@
-package com.PetFurMe.app.ui.theme
+package com.petfurme.app.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
